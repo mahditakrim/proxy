@@ -3,3 +3,5 @@ server:45.94.255.237
 port:10011  
 password:ShargieGhamgin+  
 encrypt method:CHACHA20-IETF-POLY1305  
+# v2ray
+vmess://eyJhZGQiOiIxNjIuMjQ1LjgwLjE4OSIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYjA3ZDAyZWEtM2RmYi00OWM3LThlOGMtZjA5ODQxMTJmYTY3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoibngiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
